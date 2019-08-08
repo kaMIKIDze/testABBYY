@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TestABBYY</string>
+    <string name="Disk">Диски</string>
+    <string name="books">Книги</string>
+    <string name="product_name">Название товара:</string>
+    <string name="product_cost_text">Цена:</string>
+    <string name="product_bar_code_text">Штрих-код:</string>
+    <string name="product_content_text">Содержимое:</string>
+    <string name="number_of_page">Количество страниц:</string>
+    <string name="product_information">Информация о товаре</string>
+    <string name="age_limitation">Возрастное ограничение:</string>
+    <string name="basic_ingredient">Основной ингредиент:</string>
+    <string name="programming_language">Язык программирования:</string>
+</resources>
